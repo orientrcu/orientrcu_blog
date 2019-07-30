@@ -133,10 +133,14 @@ ol {
 	padding-left: 1em;
 }
 
+ol {
+	list-style-type: decimal;
+}
+
 li {
 	line-height: 1.75em;
 	margin-left: .75em;
-	list-style-type: none;
+	list-style-type: circle;
 }
 
 table {

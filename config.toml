@@ -1,5 +1,6 @@
 # End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
 baseURL = "https://orientrcu.github.io/orientrcu_blog"
+relativeURLs = true
 
 languageCode = "en-us"
 title = "Blog"
