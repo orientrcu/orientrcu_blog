@@ -1,0 +1,133 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo!</title>
+      <link>/posts/hello-hugo/</link>
+      <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
+      
+      <guid>/posts/hello-hugo/</guid>
+      <description>
+
+&lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
+
+&lt;h2 id=&#34;a-section&#34;&gt;A Section&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a simple titled section where you can place whatever information you want.&lt;/p&gt;
+
+&lt;p&gt;You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.&lt;/p&gt;
+
+&lt;h2 id=&#34;showing-off-with-markdown&#34;&gt;Showing off with Markdown&lt;/h2&gt;
+
+&lt;p&gt;A full cheat sheet can be found &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;here&lt;/a&gt;
+or through &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are some &lt;em&gt;easy&lt;/em&gt; examples for styling, though. I can&amp;rsquo;t &lt;strong&gt;emphasize&lt;/strong&gt; that enough.
+Creating &lt;a href=&#34;https://google.com/&#34;&gt;links&lt;/a&gt; or &lt;code&gt;inline code&lt;/code&gt; blocks are very straightforward.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;There are some *easy* examples for styling, though. I can&amp;#39;t **emphasize** that enough.
+Creating [links](https://google.com/) or `inline code` blocks are very straightforward.&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;front-matter-for-fun&#34;&gt;Front Matter for Fun&lt;/h2&gt;
+
+&lt;p&gt;This is the meta data for this post. It is located at the top of the &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; markdown file.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;---
+title: &amp;#34;Hello Hugo!&amp;#34;
+description: &amp;#34;Saying &amp;#39;Hello&amp;#39; from Hugo&amp;#34;
+date: &amp;#34;2014-09-01&amp;#34;
+categories:
+  - &amp;#34;example&amp;#34;
+  - &amp;#34;hello&amp;#34;
+tags:
+  - &amp;#34;example&amp;#34;
+  - &amp;#34;hugo&amp;#34;
+  - &amp;#34;blog&amp;#34;
+---&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This section, called &amp;lsquo;Front Matter&amp;rsquo;, is what tells Hugo about the content in this file: the &lt;code&gt;title&lt;/code&gt; of the item, the
+&lt;code&gt;description&lt;/code&gt;, and the &lt;code&gt;date&lt;/code&gt; it was posted. In our example, we&amp;rsquo;ve added two custom bits of data too. The &lt;code&gt;categories&lt;/code&gt; and
+&lt;code&gt;tags&lt;/code&gt; sections are used in this example for indexing/grouping content. You will learn more about what that means by
+examining the code in this example and through reading the Hugo &lt;a href=&#34;http://gohugo.io/overview/introduction&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/resugary/hugo-theme-one&#34;&gt;One&lt;/a&gt; is a minimal blog theme for Hugo, which is forked from &lt;a href=&#34;https://github.com/schollz/onetwothree&#34;&gt;onetwothree&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Source code is released under the MIT license on GitHub. Feel free to use if you want to learn more or contribute.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tất cả</title>
+      <link>/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
