@@ -4,7 +4,7 @@ baseURL = "https://orientrcu.github.io/orientrcu_blog"
 languageCode = "en-us"
 title = "Blog"
 theme = "hugo-theme-one"
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-65383716-5"
 
 # Chroma Syntax Highlighting
 pygmentsCodefences = true
