@@ -1,13 +1,13 @@
 {{ partial "header.html" . }}
 
 <div class="content">
-  <h1>{{ .Title }}</h1>
-  <aside>{{.Params.author}}</aside>
-  <p>{{ .Content }}</p>
+  <div class="article-meta">
+  <h1><span class="title">{{ .Title }}</span></h1>
+  <h3 class="author">{{ partial "author_names.html" . }}</h3>
+  <h4><span class="date" style="font-weight:bold">{{ .Date.Format "2006-01-02" }}</span><h4>
+  </div>
+  
+  <main>{{ .Content }}</main>
 </div>
-
-{{ if (eq .Type "posts") }}
-  <p><i><font color="#666666">Đăng ngày {{ .Date.Format "2006-01-02"}}.</font></i></p>
-{{ end }}
 
 {{ partial "footer.html" . }}

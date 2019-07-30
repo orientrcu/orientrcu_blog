@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/</loc>
+    <loc>/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/kh%E1%BA%A3o-s%C3%A1t/</loc>
+    <loc>/tags/kh%E1%BA%A3o-s%C3%A1t/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/posts/khaosat_nhucau/</loc>
+    <loc>/posts/khaosat_nhucau/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/nghi%C3%AAn-c%E1%BB%A9u-khoa-h%E1%BB%8Dc/</loc>
-    <lastmod>2019-07-30T17:22:00+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/nhu-c%E1%BA%A7u/</loc>
+    <loc>/tags/nghi%C3%AAn-c%E1%BB%A9u-khoa-h%E1%BB%8Dc/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/nh%C3%A2n-vi%C3%AAn-y-t%E1%BA%BF/</loc>
+    <loc>/tags/nhu-c%E1%BA%A7u/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/posts/</loc>
+    <loc>/tags/nh%C3%A2n-vi%C3%AAn-y-t%E1%BA%BF/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-07-30T17:22:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/categories/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-30T17:22:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/categories/r/</loc>
+    <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/r-markdown/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/plot/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/tags/regression/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/about/</loc>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://orientrcu.github.io/orientrcu_blog/archives/</loc>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
   </url>
   
 </urlset>

@@ -8,7 +8,7 @@
 
 html {
 	height: 100%;
-	background: #fff;
+	background: #DDEAF8;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
@@ -21,6 +21,7 @@ body {
 	max-width: 1000px;
 	min-height: 100%;
 	text-rendering: optimizeLegibility;
+	background: #fff;
 }
 
 header {
@@ -140,20 +141,7 @@ ol {
 li {
 	line-height: 1.75em;
 	margin-left: .75em;
-	list-style-type: none;
-}
-
-ul {
-  list-style: none; /* Remove default bullets */
-}
-
-ul li::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #0066cc; /* Change the color */
-  font-weight: bold; /* If you want it to be bold */
-  display: inline-block; /* Needed to add space between the bullet and the text */ 
-  width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: .75em; /* Also needed for space (tweak if needed) */
+	list-style-type: disc;
 }
 
 table {
@@ -239,3 +227,62 @@ blockquote {
 blockquote p {
 	display: inline;
 }
+
+.article-meta {
+  text-decoration: none;
+  background: #0066cc;
+  padding: 5px;
+  text-align: center;
+  margin: 0 0 30px 0;
+}
+
+.article-meta h1 {color: #ffffff;}
+.article-meta h3 {
+  color: #ffffff;
+  font-size: 1.2em;
+  font-style: italic;
+}
+.article-meta h4 {
+  color: #cccccc;
+  font-size: 1em;
+}
+
+main h2{font-size: 1.2em;}
+main h3{font-size: 1.1em;}
+main h4{font-size: 1.0em;}
+main p{font-size: 0.9em;}
+main ul,
+ol {
+	margin-bottom: 1em;
+	padding-left: 1em;
+	font-size: 0.9em;
+}
+
+li {
+	line-height: 1.75em;
+	margin-left: .75em;
+}
+
+ul li {
+  list-style-type: disc;
+}
+
+ol li {
+	list-style-type: decimal;
+}
+
+
+blockquote {
+  background: #007af3;
+  border-left: 5px solid #0066cc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: 1em auto auto;
+  border-top: 5px solid #0066cc;
+  border-bottom: 5px solid #0066cc;
+}
+table thead th { border-bottom: 3px solid #0066cc; }
+th, td { padding: 5px; }
+tr:nth-child(even) { background: #007af3 }
