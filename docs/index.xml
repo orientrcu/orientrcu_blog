@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>/</link>
+    <link>https://orientrcu.github.io/orientrcu_blog/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://orientrcu.github.io/orientrcu_blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -52,7 +52,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://orientrcu.github.io/orientrcu_blog/orientrcu_blogpost/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -63,10 +63,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Hello Hugo!</title>
-      <link>/posts/hello-hugo/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/posts/hello-hugo/</link>
       <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
       
-      <guid>/posts/hello-hugo/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/posts/hello-hugo/</guid>
       <description>
 
 &lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
@@ -110,10 +110,10 @@ examining the code in this example and through reading the Hugo &lt;a href=&#34;
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/about/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/resugary/hugo-theme-one&#34;&gt;One&lt;/a&gt; is a minimal blog theme for Hugo, which is forked from &lt;a href=&#34;https://github.com/schollz/onetwothree&#34;&gt;onetwothree&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Source code is released under the MIT license on GitHub. Feel free to use if you want to learn more or contribute.&lt;/p&gt;
@@ -122,10 +122,10 @@ examining the code in this example and through reading the Hugo &lt;a href=&#34;
     
     <item>
       <title>Tất cả</title>
-      <link>/archives/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/archives/</guid>
       <description></description>
     </item>
     
