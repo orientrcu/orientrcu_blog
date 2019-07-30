@@ -1,75 +1,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog</title>
-    <link>/tags/</link>
+    <link>https://orientrcu.github.io/orientrcu_blog/tags/</link>
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jul 2019 17:22:00 +0700</lastBuildDate>
     
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://orientrcu.github.io/orientrcu_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Khảo sát</title>
-      <link>/tags/kh%E1%BA%A3o-s%C3%A1t/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/kh%E1%BA%A3o-s%C3%A1t/</link>
       <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
       
-      <guid>/tags/kh%E1%BA%A3o-s%C3%A1t/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/kh%E1%BA%A3o-s%C3%A1t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nghiên cứu khoa học</title>
-      <link>/tags/nghi%C3%AAn-c%E1%BB%A9u-khoa-h%E1%BB%8Dc/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/nghi%C3%AAn-c%E1%BB%A9u-khoa-h%E1%BB%8Dc/</link>
       <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
       
-      <guid>/tags/nghi%C3%AAn-c%E1%BB%A9u-khoa-h%E1%BB%8Dc/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/nghi%C3%AAn-c%E1%BB%A9u-khoa-h%E1%BB%8Dc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nhu cầu</title>
-      <link>/tags/nhu-c%E1%BA%A7u/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/nhu-c%E1%BA%A7u/</link>
       <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
       
-      <guid>/tags/nhu-c%E1%BA%A7u/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/nhu-c%E1%BA%A7u/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nhân viên y tế</title>
-      <link>/tags/nh%C3%A2n-vi%C3%AAn-y-t%E1%BA%BF/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/nh%C3%A2n-vi%C3%AAn-y-t%E1%BA%BF/</link>
       <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
       
-      <guid>/tags/nh%C3%A2n-vi%C3%AAn-y-t%E1%BA%BF/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/nh%C3%A2n-vi%C3%AAn-y-t%E1%BA%BF/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/tags/regression/</guid>
       <description></description>
     </item>
     

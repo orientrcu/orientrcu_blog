@@ -1,6 +1,6 @@
 # End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseURL = "https://orientrcu.github.io/orientrcu_blog"
-baseURL = ""
+baseURL = "https://orientrcu.github.io/orientrcu_blog"
+#baseURL = ""
 relativeURLs = true
 
 languageCode = "en-us"

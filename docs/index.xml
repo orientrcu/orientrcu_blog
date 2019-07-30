@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>/</link>
+    <link>https://orientrcu.github.io/orientrcu_blog/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jul 2019 17:22:00 +0700</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://orientrcu.github.io/orientrcu_blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Khảo sát nhu cầu của nhân viên y tế về nghiên cứu khoa học (Đào tạo và Hỗ trợ)</title>
-      <link>/posts/khaosat_nhucau/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/posts/khaosat_nhucau/</link>
       <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
       
-      <guid>/posts/khaosat_nhucau/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/posts/khaosat_nhucau/</guid>
       <description>
 
 &lt;p&gt;Trong quá trình xây dựng Dự án Nâng cao năng lực nghiên cứu cho nhân viên y tế và bệnh viện tại Việt Nam, dự kiến phối hợp giữa Đơn vị nghiên cứu và tư vấn Phương Đông (Orient RCU), Viện nghiên cứu giáo dục và quản trị kinh doanh, và Trung tâm Hỗ trợ dự án và Đổi mới sáng tạo - Đại học Y Dược Tp.HCM, chúng tôi thực hiện khảo sát này nhằm đánh giá nhu cầu của nhân viên y tế về nghiên cứu khoa học.&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -101,10 +101,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/about/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/resugary/hugo-theme-one&#34;&gt;One&lt;/a&gt; is a minimal blog theme for Hugo, which is forked from &lt;a href=&#34;https://github.com/schollz/onetwothree&#34;&gt;onetwothree&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Source code is released under the MIT license on GitHub. Feel free to use if you want to learn more or contribute.&lt;/p&gt;
@@ -113,10 +113,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Tất cả</title>
-      <link>/archives/</link>
+      <link>https://orientrcu.github.io/orientrcu_blog/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>https://orientrcu.github.io/orientrcu_blog/archives/</guid>
       <description></description>
     </item>
     
