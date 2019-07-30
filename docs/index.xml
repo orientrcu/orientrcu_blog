@@ -5,10 +5,42 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 17:22:00 +0700</lastBuildDate>
     
         <atom:link href="https://orientrcu.github.io/orientrcu_blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Khảo sát nhu cầu của nhân viên y tế về nghiên cứu khoa học (Đào tạo và Hỗ trợ)</title>
+      <link>https://orientrcu.github.io/orientrcu_blog/posts/khaosat_nhucau/</link>
+      <pubDate>Tue, 30 Jul 2019 17:22:00 +0700</pubDate>
+      
+      <guid>https://orientrcu.github.io/orientrcu_blog/posts/khaosat_nhucau/</guid>
+      <description>&lt;p&gt;Trong quá trình xây dựng Dự án Nâng cao năng lực nghiên cứu cho nhân viên y tế và bệnh viện tại Việt Nam, dự kiến phối hợp giữa Đơn vị nghiên cứu và tư vấn Phương Đông (Orient RCU), Viện nghiên cứu giáo dục và quản trị kinh doanh, và Trung tâm Hỗ trợ dự án và Đổi mới sáng tạo - Đại học Y Dược Tp.HCM, chúng tôi thực hiện khảo sát đánh giá nhu cầu của nhân viên y tế về nghiên cứu khoa học.&lt;/p&gt;
+
+&lt;p&gt;Mục tiêu của khảo sát nhằm:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tìm hiểu nhu cầu của nhân viên y tế về việc tham gia và thực hiện nghiên cứu khoa học&lt;/li&gt;
+&lt;li&gt;Tìm hiểu nhu cầu của bệnh viện tại Việt Nam về việc tổ chức và quản lý phòng nghiên cứu khoa học&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Thông tin từ khảo sát là cơ sở cho các hoạt động hỗ trợ của Dự án dành cho đối tượng Nhân viên y tế và bệnh viện tại Việt Nam.&lt;/p&gt;
+
+&lt;p&gt;Để tham gia khảo sát, bạn vui lòng click vào đây: &lt;a href=&#34;https://forms.gle/j9pqVWyFML6U7DDx7&#34;&gt;link khảo sát&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nếu có thắc mắc về khảo sát này và Dự án, bạn có thể liên hệ trực tiếp với chúng tôi:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phùng Khánh Lâm (Ts. Bs): lampk.orientrcu@gmail.com (số điện thoại 0915 333 751)&lt;/li&gt;
+&lt;li&gt;Lê Thị Quỳnh Nhi (Ts): lethiquynhnhi@ump.edu.vn (fb: Le Thi Quynh Nhi; số điện thoại 0946 309 385)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Một số thông tin có thể tìm thấy thông qua website: &lt;a href=&#34;https://orientrcu.org&#34;&gt;https://orientrcu.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chân thành cảm ơn bạn.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
@@ -52,59 +84,12 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://orientrcu.github.io/orientrcu_blog/orientrcu_blogpost/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;./post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello Hugo!</title>
-      <link>https://orientrcu.github.io/orientrcu_blog/posts/hello-hugo/</link>
-      <pubDate>Mon, 01 Sep 2014 12:19:03 +0800</pubDate>
-      
-      <guid>https://orientrcu.github.io/orientrcu_blog/posts/hello-hugo/</guid>
-      <description>
-
-&lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
-
-&lt;h2 id=&#34;a-section&#34;&gt;A Section&lt;/h2&gt;
-
-&lt;p&gt;Here&amp;rsquo;s a simple titled section where you can place whatever information you want.&lt;/p&gt;
-
-&lt;p&gt;You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.&lt;/p&gt;
-
-&lt;h2 id=&#34;showing-off-with-markdown&#34;&gt;Showing off with Markdown&lt;/h2&gt;
-
-&lt;p&gt;A full cheat sheet can be found &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;here&lt;/a&gt;
-or through &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are some &lt;em&gt;easy&lt;/em&gt; examples for styling, though. I can&amp;rsquo;t &lt;strong&gt;emphasize&lt;/strong&gt; that enough.
-Creating &lt;a href=&#34;https://google.com/&#34;&gt;links&lt;/a&gt; or &lt;code&gt;inline code&lt;/code&gt; blocks are very straightforward.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;There are some *easy* examples for styling, though. I can&amp;#39;t **emphasize** that enough.
-Creating [links](https://google.com/) or `inline code` blocks are very straightforward.&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;front-matter-for-fun&#34;&gt;Front Matter for Fun&lt;/h2&gt;
-
-&lt;p&gt;This is the meta data for this post. It is located at the top of the &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; markdown file.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;---
-title: &amp;#34;Hello Hugo!&amp;#34;
-description: &amp;#34;Saying &amp;#39;Hello&amp;#39; from Hugo&amp;#34;
-date: &amp;#34;2014-09-01&amp;#34;
-categories:
-  - &amp;#34;example&amp;#34;
-  - &amp;#34;hello&amp;#34;
-tags:
-  - &amp;#34;example&amp;#34;
-  - &amp;#34;hugo&amp;#34;
-  - &amp;#34;blog&amp;#34;
----&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This section, called &amp;lsquo;Front Matter&amp;rsquo;, is what tells Hugo about the content in this file: the &lt;code&gt;title&lt;/code&gt; of the item, the
-&lt;code&gt;description&lt;/code&gt;, and the &lt;code&gt;date&lt;/code&gt; it was posted. In our example, we&amp;rsquo;ve added two custom bits of data too. The &lt;code&gt;categories&lt;/code&gt; and
-&lt;code&gt;tags&lt;/code&gt; sections are used in this example for indexing/grouping content. You will learn more about what that means by
-examining the code in this example and through reading the Hugo &lt;a href=&#34;http://gohugo.io/overview/introduction&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
