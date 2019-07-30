@@ -1,0 +1,16 @@
+# End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
+baseURL = ""
+
+languageCode = "en-us"
+title = "Blog"
+theme = "hugo-theme-one"
+googleAnalytics = "UA-123-45"
+
+# Chroma Syntax Highlighting
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "pygments"
+
+[params]
+    navigation = ["archives.md"]
+
