@@ -7,7 +7,7 @@ tags: ["Khảo sát","Nhu cầu", "Nghiên cứu khoa học", "Nhân viên y t�
 draft: false
 ---
 
-Trong quá trình xây dựng Dự án Nâng cao năng lực nghiên cứu cho nhân viên y tế và bệnh viện tại Việt Nam, dự kiến phối hợp giữa Đơn vị nghiên cứu và tư vấn Phương Đông (Orient RCU), Viện nghiên cứu giáo dục và quản trị kinh doanh, và Trung tâm Hỗ trợ dự án và Đổi mới sáng tạo - Đại học Y Dược Tp.HCM, chúng tôi thực hiện khảo sát này nhằm đánh giá nhu cầu của nhân viên y tế về nghiên cứu khoa học. 
+Trong quá trình xây dựng Dự án Nâng cao năng lực nghiên cứu cho nhân viên y tế và bệnh viện tại Việt Nam, dự kiến phối hợp giữa Đơn vị nghiên cứu và tư vấn Phương Đông (Orient RCU), và Trung tâm Hỗ trợ dự án và Đổi mới sáng tạo - Đại học Y Dược Tp.HCM, chúng tôi thực hiện khảo sát này nhằm đánh giá nhu cầu của nhân viên y tế về nghiên cứu khoa học. 
 
 ## Mục tiêu của khảo sát
 
